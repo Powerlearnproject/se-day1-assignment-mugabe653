@@ -70,13 +70,14 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-waterfall methodology - Linear and sequential, each phase is completed before moving on. 
-- there is Low flexibility,
- changes are hard to incorporate once a phase is complete.
- - Customer feedback comes late, after the product is developed.
- - Testing is done at the end of the development process.
 
-agile methodology - Iterative and incremental, with multiple cycles (sprints). 
+Waterfall methodology - Linear and sequential, each phase is completed before moving on. 
+- There is Low flexibility,
+- Changes are hard to incorporate once a phase is complete.
+- Customer feedback comes late, after the product is developed.
+- Testing is done at the end of the development process.
+
+Agile methodology - Iterative and incremental, with multiple cycles (sprints). 
 forexample scrum and kanban
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
@@ -131,16 +132,22 @@ Branching and Merging: Supports creating branches for new features and merging t
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
--rapid technological advancement places considerable pressure on software engineers to stay current.
- Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
+
+Rapid technological advancement places considerable pressure on software engineers to stay current.
+ Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. 
+ 
 Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
- Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints 
--Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
+ Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints.
+ 
+Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
  Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
-Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes. 
+ 
+Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes.
 Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
+
 Software Security - Programming secure software is a complex and challenging task. 
-Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
+Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats.
+
 Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
 Solution: Use scalable architecture, Emphasize reliability.
 
