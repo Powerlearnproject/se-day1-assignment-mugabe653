@@ -101,21 +101,33 @@ Project Manager - assembles and lead the software development team.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 importance:
+
 ●	Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
+
 ●	An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors.
+
 ●	an IDE can make suggestions to complete a code statement when the developer begins typing.
+
 ●	IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
+
 ●	An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
+
 ●	The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
+
 ●	Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 importance:
 Collaboration: Enables multiple developers to work on the same codebase without conflicts.
-Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
--Branching and Merging: Supports creating branches for new features and merging them back into the main code.
+
+
+Change Tracking: Records detailed history of changes, allowing easy analysis of each modification.
+
+Branching and Merging: Supports creating branches for new features and merging them back into the main code.
+
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -143,16 +155,20 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 #Part 2: Introduction to AI and Prompt Engineering
 
 1.	Define prompt engineering and discuss its importance in interacting with AI models.
+2.	
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
+
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
+
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+
 developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
-2.	Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Draw a picture of a person
-Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
-Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
-Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
-Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
+4.	Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+   Write about technology
+show the specificity such as artificial intelligence, what are benefits, draw backs and history of technology, what is the intended audience.
+Clarity: The improved prompt specifies what is being asked (in depth of technology) rather than just a "technology.
+Specific Details: explain specificity (artificil intelligence) and the benefits ( advancement) gives clear guidance to the intended audience .
+Concise: The additional details provide a detail of echnology, making it easier for a new software developer to undestand.
 
